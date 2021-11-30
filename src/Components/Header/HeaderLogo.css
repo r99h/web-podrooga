@@ -1,0 +1,6 @@
+.HeaderLogo {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    left: -150px;
+  }

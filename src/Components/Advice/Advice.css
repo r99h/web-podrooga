@@ -1,0 +1,15 @@
+.Advice {
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 1.1;
+    margin-left: auto;
+    transition: all 1.1;
+  }
+
+  .Advice-text-prev {
+    transform: translateX(-100%);
+}
+ 
+.Advice-text-next {
+    transform: translateX(100%);
+}
